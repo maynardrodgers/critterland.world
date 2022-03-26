@@ -124,7 +124,7 @@ background-color: #faf7f5;
 }
 .header > .desktop > .menu-item > .item-right {
   position: relative;
-  left: 300px;
+  left: 320px;
   top: -37px;
 }
 .header > .desktop > .menu-item > .item-right > .item-right-left {
@@ -817,7 +817,8 @@ img[class^="mobaIcon_"] {
   font-size: 30px;
 }
 .item-line {
-  border: 2px solid #eec303;
+  height: 2px;
+  background-color:  #eec303;
   width: 40px;
 }
 .features.input {
